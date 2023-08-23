@@ -2,7 +2,7 @@
 
 A curated list of helpful links for planning your visit to DEF CON:
 ___
-![vegas](https://github.com/DefconParrot/DefconPlanning/assets/30528167/d0be5b73-1339-47e4-9df2-1fff9cb37458)
+![vegas](https://github.com/DefconParrot/DefconPlanning/assets/30528167/743c9e5d-7dcb-462f-815e-82d8274e2b1a)
 ___
 |ID | Link | Platform | TYPE/ABOUT | Author/Maintainer |
 |---|------|----------|------------|------|
@@ -35,8 +35,7 @@ Community Contributions:
 | 2 | [DEF CON Travel Tips](#) | N/A | Travel Information | N/A |
 | 3 | [DEF CON Accommodation Guide](#) | N/A | e.g Hotel tips &c. | N/A |
 | 4 | [DEF CON Hacker Summer Camp Guides](https://defcon201.medium.com/hacker-double-summer-2022-guides-part-twelve-defcon-30-df47c03e4abb) |Medium | Frequently updated Hacker summer guides, from one of the Defcon Groups (DCG 201) | [Defcon Group 201](https://twitter.com/defcon201nj) |
-
-
+| 5 | [Guide to Attending DEF CON 31](https://cybergladius.com/guide-to-attending-def-con-31/) | External | Bret's tips and resources for your #roadtoDefcon plans | [Bret via Cybergladius](https://cybergladius.social/@CyberGladius) |
 ___
 ## Contributing
 
