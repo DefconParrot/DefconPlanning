@@ -1,7 +1,9 @@
 # DefconPlanning
 
-A curated list of helpful links for planning your visit to DEF CON.
-
+A curated list of helpful links for planning your visit to DEF CON:
+___
+![vegas](https://github.com/DefconParrot/DefconPlanning/assets/30528167/d0be5b73-1339-47e4-9df2-1fff9cb37458)
+___
 |ID | Link | Platform | TYPE/ABOUT | Author/Maintainer |
 |---|------|----------|------------|------|
 | 1 | [DEF CON Official Website](https://www.defcon.org/) | Official | All DC resources | [Defcon](#) |
@@ -10,11 +12,10 @@ A curated list of helpful links for planning your visit to DEF CON.
 | 4 | [DEF CON Reddit](https://www.reddit.com/r/Defcon/) | Reddit | Q/A | N/A |
 | 5 | [DEF CON Wiki](https://en.wikipedia.org/wiki/DEF_CON) | Wikipedia | History Information | [Defcon](#) |
 | 6 | [DEF CON Discord](https://discord.com/invite/defcon) | Discord | Chat & Networking | [Defcon](#) |
-| 7 | [DEF CON Travel Tips](#) | N/A | Travel Information | N/A |
-| 8 | [DEF CON Accommodation Guide](#) | N/A | N/A | N/A |
-| 9 | [DEF CON Tracker](https://hackertracker.app/) | External(Hacker Tracker) | Current Defcon Schedules | [SeTHLaW](https://twitter.com/sethlaw) |
-| 10| [DEF CON Calendar](https://forum.defcon.org/calendar) | Official Community | Calendar with upcoming DC events | DEF CON |
-| 11| [DEF CON Security Guidelines](#) | N/A | N/A |N/A |
+| 7 | [DEF CON Tracker](https://hackertracker.app/) | External(Hacker Tracker) | Current Defcon Schedules | [SeTHLaW](https://twitter.com/sethlaw) |
+| 8| [DEF CON Calendar](https://forum.defcon.org/calendar) | Official Community | Calendar with upcoming DC events | [DEF CON](#) |
+| 9| [DEF CON Policy](https://defcon.org/html/links/dc-policy.html) | Official | DEF CON policies; code of conduct, CFP policy &more information you might need to understand. |[Defcon](#) |
+|10| [DEF CON Hotline](https://twitter.com/defcon/status/1154161047865122816) | Phone call,Signal and Discord | A way to anonymously [report any behavior violating DC code of conduct or to find an empathic ear](https://www.threads.net/@defconparrot/post/Cu_rTOjgzYL) | [DEFCON Hotline](https://twitter.com/DefconHotline) |
 
 link of links:
 
@@ -31,6 +32,10 @@ Community Contributions:
 |ID | Link | Platform | TYPE/ABOUT | Author/Maintainer |
 |---|------|----------|------------|------|
 | 1 | [DEF CON First-Timer's guide](https://ginnyfahs.medium.com/def-con-the-ultimate-guide-for-first-timers-516b6ffda705) | Medium | DEF CON: The Ultimate Guide for First-Timers | [Ginny Fahs](#) |
+| 2 | [DEF CON Travel Tips](#) | N/A | Travel Information | N/A |
+| 3 | [DEF CON Accommodation Guide](#) | N/A | e.g Hotel tips &c. | N/A |
+| 4 | [DEF CON Hacker Summer Camp Guides](https://defcon201.medium.com/hacker-double-summer-2022-guides-part-twelve-defcon-30-df47c03e4abb) |Medium | Frequently updated Hacker summer guides, from one of the Defcon Groups (DCG 201) | [Defcon Group 201](https://twitter.com/defcon201nj) |
+
 
 ___
 ## Contributing
