@@ -34,7 +34,7 @@ Links containing curation of resources or information for the DEF CON community.
 | 4 | [Outlet.org - DEF CON Resources](https://defcon.outel.org/dcwp/) | Outlet | 'Resources for Defcon Attendees' | [qumqats](https://twitter.com/qumqats) |
 | 5 | [DEF CON Community Posts](https://linktr.ee/defconparrot) | external |  Curation of live community posts | [DEFCONParrot](https://twitter.com/DefconParrot) |
 | 6 | [DEF CON Arsenal Tools](https://twitter.com/DCArsenalTools) | 𝕏 (fka Twitter) | Curation of scripts, badge source codes and other materials as seen or used at previous DC events. | [DEFCONParrot](https://twitter.com/DefconParrot) |
-| 7 | [Hacker Summer Camp Discord & Slack](https://github.com/INIT6Source/HackerSummerCamp-Discords) | Github | Curation of Hacker Summer Camp Discord/Slack | [INIT_6_](https://infosec.exchange/@init_6_)
+| 7 | [Hacker Summer Camp Discord & Slack](https://github.com/INIT6Source/HackerSummerCamp-Discords) | Github | Curation of Hacker Summer Camp Discord/Slack | [Brock 'INIT_6_' Warner](https://infosec.exchange/@init_6_)
 
 **_Community Contributions_**:
 
